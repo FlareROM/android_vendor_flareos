@@ -1,5 +1,5 @@
-# Inherit common Lineage stuff
-$(call inherit-product, vendor/lineage/config/common.mk)
+# Inherit common FlareOS stuff
+$(call inherit-product, vendor/flareos/config/common.mk)
 
 PRODUCT_SIZE := full
 

@@ -1,10 +1,10 @@
 #
-# Lineage Audio Files
+# FlareOS Audio Files
 #
 
-ALARM_PATH := vendor/lineage/prebuilt/common/media/audio/alarms
-NOTIFICATION_PATH := vendor/lineage/prebuilt/common/media/audio/notifications
-RINGTONE_PATH := vendor/lineage/prebuilt/common/media/audio/ringtones
+ALARM_PATH := vendor/flareos/prebuilt/common/media/audio/alarms
+NOTIFICATION_PATH := vendor/flareos/prebuilt/common/media/audio/notifications
+RINGTONE_PATH := vendor/flareos/prebuilt/common/media/audio/ringtones
 
 # Alarms
 PRODUCT_COPY_FILES += \
